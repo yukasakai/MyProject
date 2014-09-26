@@ -11,6 +11,10 @@ What language:
 When can we meet every week?
 	Yuka free:
 		M: (8:30-10:00, after 5:30)
+		T: (after 11:30)
+		W: (8:30-10:00, after 5:30)
+		R: (after 9pm)
+		F: (whenever)
 	
 
 Roles?
